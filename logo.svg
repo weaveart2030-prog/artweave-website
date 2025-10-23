@@ -1,0 +1,6 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 36'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#0F8C8F'/><stop offset='1' stop-color='#0D6065'/></linearGradient></defs>
+<path d='M10 26 C18 14, 30 14, 38 26 S58 38, 66 26 M38 26 C46 14, 58 14, 66 26' fill='none' stroke='url(#g)' stroke-width='6' stroke-linecap='round'/>
+<path d='M84 26 L92 10 L100 26' fill='none' stroke='url(#g)' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='10' y='34' font-family='Poppins, Cairo, sans-serif' font-size='8' fill='#0D6065'>Art Weave</text>
+</svg>
